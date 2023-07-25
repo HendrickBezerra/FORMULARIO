@@ -1,0 +1,118 @@
+ body{
+    padding: 0;
+    margin: 0;
+    
+
+}
+
+body{
+    
+   background-color: firebrick;
+   height: 4000px;
+  
+}
+input, label, textarea{
+    display: block;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold ;
+
+}
+h1{
+    font-family: fantasy;
+    font-size: 40px;
+    
+    padding-bottom: 15px;
+    
+
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold ;
+    padding-top: 3px;
+
+}
+
+.conteiner{
+    background-color:darkgrey ;
+    width: 350px ;
+    margin: 40px auto 0 auto;
+    padding: 25px  ;
+    border-radius: 50px ;
+    box-shadow: 1px 1px 5px rgba(0,0,0,.4);
+    
+    
+
+}
+
+input,textarea{
+    border-radius: 15px;
+    background-color: rgb(255, 255, 255);
+    border: 3px solid #000;
+    color: #000;
+    outline: none ;
+    letter-spacing: .1em;
+    
+
+}
+
+input.width100,textarea{
+    width: 100;
+    font-size: 30;
+    
+
+
+}
+
+input, textarea{
+    padding: 0 15px;
+    font-size: 15x;
+    
+
+}
+
+.input-texto,input{
+    height: 17px ;
+    
+
+}
+
+textarea{
+    padding-top: 10px;
+    clear: both;
+    
+
+}
+
+label{
+    padding: 0px 5px 4px 5px ;
+    clear: both;
+  
+    
+
+}
+
+.div-input-radio,label{
+    padding: 30  0;
+    text-align: left;
+    clear: both;
+    width: 200px;
+ 
+    
+}
+
+.div-input-radio,label{
+    float: left ;
+    clear: both;    
+    
+    
+    
+}
+
+.div-select{
+    float:left
+    
+    
+        
+
+}
